@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Dinner: Tres Leches Pancakes
+DTEND:20231019T073239Z
+DTSTART:20231019T063239Z
+SUMMARY:Day 3\, Dinner: Dinner: Tres Leches Pancakes
+UID:c206b643-dfdf-48d8-82fe-f6c8630a62f8@c206.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Lunch: Peanut Butter Oatmeal
+DTEND:20231020T033239Z
+DTSTART:20231020T023239Z
+SUMMARY:Day 4\, Lunch: Lunch: Peanut Butter Oatmeal
+UID:67fd2c5e-b781-4ad3-82c7-73c22b24fbd5@67fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Dinner: Baked Breakfast Taquitos
+DTEND:20231020T073239Z
+DTSTART:20231020T063239Z
+SUMMARY:Day 4\, Dinner: Dinner: Baked Breakfast Taquitos
+UID:050d11a6-a177-4ca9-93c6-62e4014ef68d@050d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Lunch: Peanut Butter Oatmeal
+DTEND:20231019T033239Z
+DTSTART:20231019T023239Z
+SUMMARY:Day 3\, Lunch: Lunch: Peanut Butter Oatmeal
+UID:fb87ff35-2cba-48b0-8f92-49f626207062@fb87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Lunch: Tortilla Scrambled Egg and Cheese
+DTEND:20231018T033239Z
+DTSTART:20231018T023239Z
+SUMMARY:Day 2\, Lunch: Lunch: Tortilla Scrambled Egg and Cheese
+UID:0c0fbae7-5598-4124-8792-b7cd1d62b936@0c0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Breakfast: Fried Egg Tortilla
+DTEND:20231016T233239Z
+DTSTART:20231016T223239Z
+SUMMARY:Day 1\, Breakfast: Breakfast: Fried Egg Tortilla
+UID:b8f1302f-84f1-4d03-87a7-acfe14e750f1@b8f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Breakfast: Air Fryer Spinach\, Pepper\, and Feta Egg Bites
+DTEND:20231019T233239Z
+DTSTART:20231019T223239Z
+SUMMARY:Day 4\, Breakfast: Breakfast: Air Fryer Spinach\, Pepper\, and Feta Egg Bites
+UID:055e0d10-fd58-48cb-85a4-7d01d75bb874@055e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Lunch: Tortilla Scrambled Egg and Cheese
+DTEND:20231021T033239Z
+DTSTART:20231021T023239Z
+SUMMARY:Day 5\, Lunch: Lunch: Tortilla Scrambled Egg and Cheese
+UID:92e1fca9-7358-4d06-aa85-d997dcf6a931@92e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Breakfast: Tortilla Scrambled Egg and Cheese
+DTEND:20231020T233239Z
+DTSTART:20231020T223239Z
+SUMMARY:Day 5\, Breakfast: Breakfast: Tortilla Scrambled Egg and Cheese
+UID:29f78044-57d9-4e46-8833-0b38487d32eb@29f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Breakfast: Fried Egg Tortilla
+DTEND:20231017T233239Z
+DTSTART:20231017T223239Z
+SUMMARY:Day 2\, Breakfast: Breakfast: Fried Egg Tortilla
+UID:d7a59377-7c4f-401a-a85c-bfa74c68212d@d7a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Dinner: Fried Egg Tortilla
+DTEND:20231021T073239Z
+DTSTART:20231021T063239Z
+SUMMARY:Day 5\, Dinner: Dinner: Fried Egg Tortilla
+UID:070ab531-f353-48cb-8a1a-95e19636c100@070a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Dinner: Fried Egg Tortilla
+DTEND:20231017T073239Z
+DTSTART:20231017T063239Z
+SUMMARY:Day 1\, Dinner: Dinner: Fried Egg Tortilla
+UID:bd5d07a7-af5c-4ddb-ab82-a647c1771b61@bd5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Dinner: Peanut Butter Oatmeal
+DTEND:20231018T073239Z
+DTSTART:20231018T063239Z
+SUMMARY:Day 2\, Dinner: Dinner: Peanut Butter Oatmeal
+UID:4e71a618-a03a-4b98-83ab-98be24ee0b33@4e71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Lunch: Fried Egg Tortilla
+DTEND:20231017T033239Z
+DTSTART:20231017T023239Z
+SUMMARY:Day 1\, Lunch: Lunch: Fried Egg Tortilla
+UID:ac9a04f0-ee8d-4a5e-a6eb-1e18f18e1794@ac9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recipe: Breakfast: Cinnamon Roll Monkey Bread
+DTEND:20231018T233239Z
+DTSTART:20231018T223239Z
+SUMMARY:Day 3\, Breakfast: Breakfast: Cinnamon Roll Monkey Bread
+UID:114c3985-10df-4851-a499-3f94de940a28@114c.org
+END:VEVENT
+END:VCALENDAR
