@@ -21,7 +21,7 @@ def fetch_data(fo_path):
     TABLE_NAME = 'Recipes'
     
     # (Personal Access Token)
-    personal_access_token="pathgqLRr5ZLa9dwP.50686d9245ee92d0625b83facab4ffcf7f828655a80515232e8bebc53235737e"
+    personal_access_token=""
     
     # Airtable API endpoint
     url = f'https://api.airtable.com/v0/{BASE_ID}/{TABLE_NAME}'
